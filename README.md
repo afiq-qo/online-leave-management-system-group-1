@@ -1,10 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/sF7T-ior)
 
-UNIVERSITY OF MALAYSIA TERENGGANU 
+ 
 
  
 
-CSF3023 – PEMIKIRAN SISTEM DAN LOGIK 
+UNIVERSITY OF MALAYSIA TERENGGANU 
+
+SYSTEM THINKING AND LOGIC (CSF3023)  
 
  
 
@@ -21,6 +23,18 @@ MUHAMMAD AMIR HAZIQ BIN MOHD NOOR S78521
 MUHAMMAD AFIQ HANIF BIN SUHAIMI S62993 
 
 NUR DINIE YASMIN BINTI ZULKARNAIN S78541 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bachelor Of Computer Science Software Engineering with Honors 
 
  
 
